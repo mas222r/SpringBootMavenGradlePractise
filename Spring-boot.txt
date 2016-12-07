@@ -1,0 +1,15 @@
+Spring boot in eclipse :
+
+In Eclipse, go to Help > Install New Software
+Use the update url http://dist.springsource.org/snapshot/GRECLIPSE/e4.5/ for Eclipse Mars (4.5.x).
+Select the 
+– Groovy Compiler 2.4 Feature and
+– Groovy-Eclipse Feature. 
+They both give us the Groovy support we need. Next.
+
+
+Optionally, Install YAML support
+
+In Eclipse, again go to Help > Install New Software
+Use the SpringSource Update Site for Eclipse 4.5 update url http://dist.springsource.com/release/TOOLS/update/e4.5/
+Select and install Spring IDE Core
