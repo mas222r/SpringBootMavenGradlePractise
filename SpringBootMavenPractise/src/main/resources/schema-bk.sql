@@ -1,0 +1,7 @@
+-- this file name is schema.sql it should not be empty. So renamed.
+-- SECURITY: USER ACCOUNT
+--DROP TABLE IF EXISTS account;
+--CREATE TABLE ACCOUNT ( ACCOUNT_NAME VARCHAR(255) NOT NULL,
+--PASSWORD VARCHAR(255 ) NOT NULL,
+--ID SERIAL,
+--ENABLED BOOL DEFAULT true) ;
